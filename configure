@@ -296,6 +296,7 @@ SRC_CODECS="      \
     hevc.c        \
     mp4sys.c      \
     mp4a.c        \
+    opus.c        \
     vc1.c         \
     wma.c"
 

@@ -79,6 +79,7 @@
     <ClCompile Include="codecs\hevc.c" />
     <ClCompile Include="codecs\mp4a.c" />
     <ClCompile Include="codecs\mp4sys.c" />
+    <ClCompile Include="codecs\opus.c" />
     <ClCompile Include="codecs\vc1.c" />
     <ClCompile Include="codecs\wma.c" />
     <ClCompile Include="common\alloc.c" />
